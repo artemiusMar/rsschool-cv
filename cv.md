@@ -42,3 +42,40 @@
 
 **Coursera** | *April 2021 - present* | *Online*
 - **Google UX Design Professional Certificate**
+
+--
+
+## Working Experience
+
+**UI/UX Designer** | *2020 - present* | *Freelance*
+- Designed websites for companies and individuals from Belarus, Russia & Ukraine;
+- Conducted usability testing for companies in Poland, Czech & Lithuania
+- Full cycle UI/UX for “Scratch Build” - WIP
+- Design UI kits, conducted UX research, design evaluation for “Mnemo”, “Heart Rate App”, “Day Counter”
+- User Journey Mapping, Low and High-Fidelity Prototyping
+- A/B and Multivariate Testing
+
+**Motion Graphics Designer / Video editor** | *2019 - 2020* | *Freelance*
+- Created animated demo videos, explainer videos, intros/outros for companies in USA, Poland & Russia
+- Video editing
+
+**Graphic Designer** | *2017 - 2020* | *Freelance*
+- Designed logos, flyers, posters, logos for clients from the USA, Poland, Czech, Ukraine, Russia & Belarus
+- Designed branding guidelines for companies from Russia & Lithuania
+- Performed content writing and graphics for social media and websites
+
+**Graphic Designer Intern** | *Digital creative agency Bitsens* | *Apr 2019 - Dec 2019* | *Internship*
+- Created animated showreel of Bitsens selected projects
+- Conducted UX research for “RAMU” Panic attack app
+- Design mockups and case studies presentations for the new website
+
+--
+
+## Other
+
+### Languages:
+- **Russian** - native
+- **English** - C1
+
+### Hobbies:
+- Game Modding, Cognitive sciences, Psychology

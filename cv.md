@@ -12,7 +12,6 @@
 ### Summary:
 - Hi, everyone! I'm an aspiring front-end developer with an extensive UI/UX background.
 
----
 
 ## Skills
 
@@ -25,7 +24,6 @@
 - **UI:** User-centered design, Equity-focused design, Visual Design, UI kits & Atomic design, Website design
 - **Tools & Software:** Figma, Zepline, Adobe XD, InVision, Adobe Photoshop, Illustrator, After Effects, Premiere Pro, Media Encoder
 
----
 
 ## Education
 
@@ -43,7 +41,6 @@
 **Coursera** | *April 2021 - present* | *Online*
 - **Google UX Design Professional Certificate**
 
----
 
 ## Working Experience
 
@@ -69,7 +66,6 @@
 - Conducted UX research for “RAMU” Panic attack app
 - Design mockups and case studies presentations for the new website
 
----
 
 ## Other
 

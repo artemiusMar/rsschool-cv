@@ -9,3 +9,154 @@
 body {
     font-family: Lato, sans-serif;
 }
+
+/* grid layout & media */
+
+.grid-master {
+    display: grid;
+    grid-template-columns: 1.5fr repeat(9, 1fr) 1.5fr;
+    grid-template-rows: repeat(3, 0.6fr) repeat(2, 1fr) 0.4fr;
+}
+
+.block-header {
+    grid-area: 1 / 2 / 4 / 5;
+}
+
+.block-header-aside {
+    grid-area: 1 / 1 / 4 / 2;
+}
+
+.block-skills-first {
+    grid-area: 1 / 5 / 1 / 8;
+}
+
+.block-skills-second {
+    grid-area: 1 / 8 / 1 / 11;
+}
+
+.block-education {
+    grid-area: 2 / 5 / 2 / 11;
+}
+
+.block-courses {
+    grid-area: 3 / 5 / 3 / 11;
+}
+
+.block-experience {
+    grid-area: 4 / 5 / 6 / 11;
+}
+
+.block-other {
+    grid-area: 6 / 5 / 6 / 11;
+}
+
+.block-footer {
+    grid-area: 4 / 2 / 7 / 5;
+}
+
+.block-footer-aside {
+    grid-area: 4 / 1 / 7 / 2;
+}
+
+.header-footer_aside {
+    display: grid;
+    height: 100%;
+    background-color: #F7F7F7;
+}
+
+@media (max-width: 1128px) {
+
+    .grid-master {
+        display: grid;
+        grid-template-columns: 0.5fr repeat(4, 1fr) 0.5fr;
+        grid-template-rows: 0.8fr repeat(4, 0.2fr) 1fr 0.2fr 0.8fr;
+    }
+
+    .block-header {
+        grid-area: 1 / 1 / 1 / 7;
+    }
+
+    .block-header-aside {
+        grid-area: 0 / 0 / 0 / 0;
+    }
+
+    .block-skills-first {
+        grid-area: 2 / 2 / 2 / 6;
+    }
+
+    .block-skills-second {
+        grid-area: 3 / 2 / 3 / 6;
+    }
+
+    .block-education {
+        grid-area: 4 / 2 / 4 / 6;
+    }
+
+    .block-courses {
+        grid-area: 5 / 2 / 5 / 6;
+    }
+
+    .block-experience {
+        grid-area: 6 / 2 / 7 / 6;
+    }
+
+    .block-other {
+        grid-area: 7 / 2 / 7 / 6;
+    }
+
+    .block-footer {
+        grid-area: 8 / 1 / 10 / 7;
+    }
+
+    .block-footer-aside {
+        grid-area: 0 / 0 / 0 / 0;
+    }
+
+    .header-footer_aside {
+        display: grid;
+        height: 0%;
+    }
+
+}
+
+@media (max-width: 640px) {
+
+    .grid-master {
+        display: grid;
+        grid-template-columns: 0.2fr repeat(4, 1fr) 0.2fr;
+        grid-template-rows: 0.8fr repeat(4, 0.2fr) 1fr 0.2fr 0.8fr;
+    }
+
+    .block-header {
+        grid-area: 1 / 1 / 1 / 7;
+    }
+
+    .block-skills-first {
+        grid-area: 2 / 2 / 2 / 6;
+    }
+
+    .block-skills-second {
+        grid-area: 3 / 2 / 3 / 6;
+    }
+
+    .block-education {
+        grid-area: 4 / 2 / 4 / 6;
+    }
+
+    .block-courses {
+        grid-area: 5 / 2 / 5 / 6;
+    }
+
+    .block-experience {
+        grid-area: 6 / 2 / 7 / 6;
+    }
+
+    .block-other {
+        grid-area: 7 / 2 / 7 / 6;
+    }
+
+    .block-footer {
+        grid-area: 8 / 1 / 10 / 7;
+    }
+
+}
